@@ -4,10 +4,12 @@
     padding: 0;
     margin: 0;
 }
+#main{
+    height: 100vh;
+    width: 100vw;
+}
 #main .nav h1{
     font-size: 33px;
-    /* display: flex;
-    align-items:end; */
     position: relative;
 }
 
@@ -133,3 +135,4 @@
 #main img:hover{
     margin-top: -10px;
 }
+
